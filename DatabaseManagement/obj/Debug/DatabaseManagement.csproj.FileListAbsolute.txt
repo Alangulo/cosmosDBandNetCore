@@ -1,0 +1,13 @@
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\DatabaseManagement\bin\Debug\appSettings.config
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\DatabaseManagement\bin\Debug\App.config
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\DatabaseManagement\bin\Debug\DocumentDB.Samples.DatabaseManagement.exe.config
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\DatabaseManagement\bin\Debug\DocumentDB.Samples.DatabaseManagement.exe
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\DatabaseManagement\bin\Debug\DocumentDB.Samples.DatabaseManagement.pdb
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\DatabaseManagement\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\DatabaseManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\DatabaseManagement\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\DatabaseManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\DatabaseManagement\obj\Debug\DatabaseManagement.csproj.CoreCompileInputs.cache
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\DatabaseManagement\obj\Debug\DatabaseManagement.csproj.CopyComplete
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\DatabaseManagement\obj\Debug\DocumentDB.Samples.DatabaseManagement.exe
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\DatabaseManagement\obj\Debug\DocumentDB.Samples.DatabaseManagement.pdb

@@ -1,0 +1,13 @@
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\CollectionManagement\bin\Debug\appSettings.config
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\CollectionManagement\bin\Debug\DocumentDB.Samples.CollectionManagement.exe.config
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\CollectionManagement\bin\Debug\DocumentDB.Samples.CollectionManagement.exe
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\CollectionManagement\bin\Debug\DocumentDB.Samples.CollectionManagement.pdb
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\CollectionManagement\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\CollectionManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\CollectionManagement\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\CollectionManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\CollectionManagement\obj\Debug\CollectionManagement.csproj.CoreCompileInputs.cache
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\CollectionManagement\obj\Debug\CollectionManagement.csproj.CopyComplete
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\CollectionManagement\obj\Debug\DocumentDB.Samples.CollectionManagement.exe
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\CollectionManagement\obj\Debug\DocumentDB.Samples.CollectionManagement.pdb
+C:\Users\alangulo\Downloads\azure-cosmos-dotnet-v2-master\azure-cosmos-dotnet-v2-master\samples\code-samples\CollectionManagement\obj\Debug\CollectionManagement.csprojAssemblyReference.cache

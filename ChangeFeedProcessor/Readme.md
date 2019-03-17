@@ -1,0 +1,1 @@
+If you are using Change FeedProcessor library version 2 then please take a look at the code in ChangeFeedProcessorV2 directory. 
